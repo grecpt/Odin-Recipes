@@ -32,7 +32,7 @@ The Recipe Project showcases a basic HTML structure for a website featuring a co
 2. Navigate to the project directory
 
 ```git
-cd recipe-project
+cd odin-recipes
 ```
 
 3. Open `index.html` in your web browser to view the website.
