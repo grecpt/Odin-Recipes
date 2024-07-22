@@ -20,14 +20,13 @@ The Recipe Project showcases a basic HTML structure for a website featuring a co
 ## Technologies Used
 
 - HTML
-- CSS
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/grecpt/The-Odin-Project.git
+   git clone https://github.com/grecpt/Odin-Recipes.git
    ```
 
 2. Navigate to the project directory
